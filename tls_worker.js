@@ -191,7 +191,7 @@ function renderHTML() {
       <textarea id="config" placeholder="vmess://..."></textarea>
       
       <label for="clean-ip">Clean IP Address (Please set your own):</label>
-      <input type="text" id="clean-ip" value="162.159.195.189">
+      <input type="text" id="clean-ip" value="104.18.13.13">
   
       <button id="refine-btn">Refine</button>
       
